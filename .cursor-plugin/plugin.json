@@ -1,0 +1,13 @@
+{
+  "name": "cookierisk-quickscan",
+  "version": "1.0.0",
+  "description": "Scan a public homepage for cookies and tracking observed before consent interaction.",
+  "author": {
+    "name": "CookieRisk",
+    "email": "info@cookierisk.eu"
+  },
+  "homepage": "https://cookierisk.eu/developers/mcp",
+  "repository": "https://github.com/whitesearch/cookierisk-quickscan-cursor",
+  "keywords": ["privacy", "cookies", "tracking", "consent"],
+  "logo": "assets/logo.svg"
+}
